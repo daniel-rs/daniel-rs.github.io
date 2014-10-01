@@ -1,0 +1,65 @@
+==================================================================
+https://keybase.io/danielrs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://daniel-rs.github.io
+  * I am danielrs (https://keybase.io/danielrs) on keybase.
+  * I have a public key with fingerprint DA4F 060A 9076 2A55 6BA3  62EB FBB3 94AA CF0F 80E5
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "da4f060a90762a556ba362ebfbb394aacf0f80e5",
+            "host": "keybase.io",
+            "key_id": "fbb394aacf0f80e5",
+            "uid": "36fb4a552bd5f1c8072e6e9f3fa65200",
+            "username": "danielrs"
+        },
+        "service": {
+            "hostname": "daniel-rs.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412184813,
+    "expire_in": 157680000,
+    "prev": "03db1433ff364e0729f4e26f97d2d7d3ce7ddd92fa8553531c859858a5c1017c",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkU1IFGEYx3dXc1FKg9ANtIixTGmV+d7ZEfagdbSiFtQSl3ln3lmHbGadmV1b
+1Fj8YIkOBSakQttBJUNECxYND3vwIH1Y2MmyPbimlFohiZZhzVgdgt7Ly/u8/+f3
+/P88tw+kWWzWncd3Hr7Miby3Pkt8Bxavs9zSggBFCCNsC3IF7l2iJPuhGlAlWUdY
+ROBIEaVRzo26aJyjKBpwBI1DIAJAuEmO40VUZFBIIU6kQdHMDgMDOA2WSYpRMx4+
+STCq/9EH9z4IWgSkAcaBQIkYz6AuHNLQLRIiR1M4ippCDaoydxXu2ZEl2KhqSJsT
+MaohiYemZ3P0P4pSVSvzS3pDEPz2EVAVXeGVRkPQoOsBjTUBejhgdjRD4PvD8gFJ
+Foz8RkcIqpqkyAiLGUpel0w4RmI4xpAMRjgReC0gqdAnmQrKRTOoccw5MGQgUUIA
+GEkQokjQJDQiuUUS4rTodgm44BIIHroEQXDjIsdQFEERRm7KzVAMR/EYirl4xEzX
+JCsISxk2Ob+B1CS/zOlBFSJtWTesBekWq82Ssc9mrtCSlXnw72LtVfafIG6LjWxl
+bx06HS/dvdebBup2t98du/Bjcng21jTSl9t5dq1Wzp6r5Aq/5MVesRsVyfDBtfrL
+FxeZCk905fMtP577pnbixNDq1NLKeCIezGuf6A+MTuedT0WK+zYdnaGJ64uV4zbE
+EfFOv9Dj857n9Wz0aFvYsT5TmT6cXCXrvll6It7ac6OTJ5vo5oWS/UWDZzrKB2bv
+3l8tLHk7P1Rd/KRn58G8nHTUcB9vRkvDBeCSo987lji87Omu6c7vYjJKBlItiQ9L
+Y3wMPP1U7c3PXO+bsbcvfz1eVJMfTa35u0bt272nclLskY1k1eDcnGehtbWoY0p7
+1Lj5+hc=
+=xfmB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/danielrs
+
+==================================================================
+
