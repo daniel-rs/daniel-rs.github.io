@@ -1,4 +1,4 @@
-#About me#
+##About me##
 
 Hello, my name is [Daniel Ricardo dos Santos](http://daniel-rs.github.io). I am a 1st year computer science PhD student in the [University of Trento](http://www.unitn.it), working on the [SECENTIS](http://www.secentis.eu) project, in partnership with [FBK](http://www.fbk.eu) and [SAP Labs](http://www.sap.com).
 
@@ -9,25 +9,23 @@ My main research interests are:
 - Formal Methods
 - Programming Languages
 
-#Contact#
-
 The best way to contact me is via e-mail: 
 
 - danielricardo.santos AT gmail DOT com  
 - dossantos AT fbk DOT eu
 
-#Software#
+##Software##
 
 These are some of the software projects that I have been involved with:
 
 - [Malelficus](https://github.com/SecPlus/malelficus): a library and executable for unix malware analysis
 - [TestREx](https://github.com/standash/TestREx): a testbed for web application exploits
 
-#Publications#
+##Publications##
 
 This is a list of my publications, which is also available on [Google Scholar](http://scholar.google.it/citations?user=Vu1CjU8AAAAJ) and [ResearchGate](https://www.researchgate.net/profile/Daniel_Dos_Santos4). You can download a [bibtex](https://daniel-rs.github.io/files/publications/publications.bib) file with all the references.
 
-### Conference and Journal papers ###
+#### Conference and Journal papers ####
 
 - P.A.F. Vitti, **D.R. dos Santos**, C.B. Westphall, C.M. Westphall, K.M.M. Vieira. "Current Issues in Cloud Computing Security and Management" in Proceedings of the 8th International Conference on Emerging Security Information, Systems and Technologies (SECURWARE2014), 2014 [PDF](https://daniel-rs.github.io/files/publications/securware2014_paper.pdf) [bib](https://daniel-rs.github.io/files/publications/securware2014_bib.bib)
 - S. Dashevskyi, **D.R. dos Santos**, F. Massacci, A. Sabetta. "TESTREX: a Testbed for Repeatable Exploits" in Proceedings of the 7th Workshop on Cyber Security Experimentation and Test (CSET 14), 2014 [PDF](https://daniel-rs.github.io/files/publications/cset2014_paper.pdf) [bib](https://daniel-rs.github.io/files/publications/cset2014_bib.bib)
@@ -43,12 +41,12 @@ This is a list of my publications, which is also available on [Google Scholar](h
 - M.A.P. Leandro, T.J. Nascimento, D.R. dos Santos, C.M. Westphall, C.B. Westphall. "Multi-Tenancy Authorization System with Federated Identity for Cloud-Based Environments Using Shibboleth" in Proceedings of the 11th International Conference on Networks (ICN 2012), 2012 [PDF](https://daniel-rs.github.io/files/publications/icn2012_paper.pdf) [bib](https://daniel-rs.github.io/files/publications/icn2012_bib.bib)
 - **D.R. dos Santos**, C.M. Westphall, "Uma aplicação de privacidade no gerenciamento de identidades em nuvem com uApprove" in Anais do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSEG2011), 2011 [PDF](https://daniel-rs.github.io/files/publications/sbseg2011_paper.pdf) [bib](https://daniel-rs.github.io/files/publications/sbseg2011_bib.bib)
 
-### Theses and other reports ###
+#### Theses and other reports ####
 
 - **D.R. dos Santos**. "Gerenciamento de Identidades e Privacidade em Ambientes de Computação em Nuvem". Bachelor's thesis, Federal University of Santa Catarina, Brazil, 2011 [PDF](https://daniel-rs.github.io/files/publications/bachelors.pdf) [bib](https://daniel-rs.github.io/files/publications/bachelors.bib)
 - **D.R. dos Santos**. "Uma Arquitetura de Controle de Acesso Dinâmico Baseado em Risco para Computação em Nuvem". Master's thesis, Federal University of Santa Catarina, Brazil, 2013 [PDF](https://daniel-rs.github.io/files/publications/masters.pdf) [bib](https://daniel-rs.github.io/files/publications/masters.bib)
 
-# Security advisories #
+## Security advisories ##
 
 I have also published some software vulnerabilities:
 
