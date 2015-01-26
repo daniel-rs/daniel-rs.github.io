@@ -1,6 +1,6 @@
 ##About me##
 
-Hello, my name is [Daniel Ricardo dos Santos](http://daniel-rs.github.io). I am a 1st year computer science PhD student at the [University of Trento](http://www.unitn.it), working on the [SECENTIS](http://www.secentis.eu) project in partnership with [FBK](http://www.fbk.eu) and [SAP Labs](http://www.sap.com).
+I am a 2nd year computer science PhD student at the [University of Trento](http://www.unitn.it), working on the [SECENTIS](http://www.secentis.eu) project in collaboration with [FBK](http://www.fbk.eu) and [SAP Labs](http://www.sap.com).
 
 My main research interests are:
 
@@ -28,6 +28,7 @@ This is a list of my publications, which is also available on [Google Scholar](h
 
 #### Conference and Journal papers ####
 
+- C. Bertolissi, **D.R. dos Santos**, S. Ranise. "Automated Synthesis of Run-time Monitors to Enforce Authorization Policies in Business Processes" in Proceedings of the 10th ACM Symposium on Information, Computer and Communications Security (ASIACCS2015), 2015 [PDF](https://daniel-rs.github.io/files/publications/asiaccs2015_paper.pdf) [bib](https://daniel-rs.github.io/files/publications/asiaccs2015_bib.bib) [Slides](https://daniel-rs.github.io/files/publications/asiaccs2015_slides.pdf)
 - P.A.F. Vitti, **D.R. dos Santos**, C.B. Westphall, C.M. Westphall, K.M.M. Vieira. "Current Issues in Cloud Computing Security and Management" in Proceedings of the 8th International Conference on Emerging Security Information, Systems and Technologies (SECURWARE2014), 2014 [PDF](https://daniel-rs.github.io/files/publications/securware2014_paper.pdf) [bib](https://daniel-rs.github.io/files/publications/securware2014_bib.bib)
 - S. Dashevskyi, **D.R. dos Santos**, F. Massacci, A. Sabetta. "TESTREX: a Testbed for Repeatable Exploits" in Proceedings of the 7th Workshop on Cyber Security Experimentation and Test (CSET 14), 2014 [PDF](https://daniel-rs.github.io/files/publications/cset2014_paper.pdf) [bib](https://daniel-rs.github.io/files/publications/cset2014_bib.bib)
 - **D.R. dos Santos**, C.M. Westphall, C.B. Westphall. "A dynamic risk-based access control architecture for cloud computing" in Proceedings of the IEEE/IFIP Network Operations and Management Symposium (NOMS 2014) [PDF](https://daniel-rs.github.io/files/publications/noms2014_paper.pdf) [bib](https://daniel-rs.github.io/files/publications/noms2014_bib.bib)
