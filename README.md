@@ -9,12 +9,10 @@ My main research interests are:
 - Formal Methods
 - Programming Languages
 
-The best way to contact me is via e-mail: 
+The best way to contact me is via e-mail (here is my PGP [public key](https://daniel-rs.github.io/files/danielrs.pgp.asc)): 
 
 - danielricardo.santos AT gmail DOT com  
 - dossantos AT fbk DOT eu
-
-Here is my PGP [public key](https://daniel-rs.github.io/files/danielrs.pgp.asc).
 
 You can also find me on:
 
